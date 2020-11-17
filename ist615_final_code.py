@@ -27,11 +27,10 @@ import string
 
 from google.colab import drive
 drive.mount('/content/drive')
-!ls '/content/drive/My Drive/school/Copy of credentials.json'
-credentials = '/content/drive/My Drive/school/credentials.json'
+import json
 
 #accessing credentials file to scrape twitter API
-with open(credentials) as cred_data:
+with open('credentials.txt') as cred_data:
         info = json.load(cred_data)
         consumer_key = info['CONSUMER_KEY']
         consumer_secret = info['CONSUMER_SECRET']
