@@ -2,15 +2,21 @@
 ## Forecasting outcomes and election polls using twitter sentimental analysis
 
 We have collected our data using twitter premium functionalities 
+
 API calls are made using tweepy and the data which has been collected through this API is stored in an S3 bucket. 
-We then use IAM roles for de-coupling the front end of the application(made using flask ) from the back end(data being fetched from S3 bucket)
+
+We then use IAM roles for de-coupling the front end of the application(made using flask) from the back end(data being fetched from S3 bucket)
 
 ## Technologies Used
 1)Flask for front end
+
 2)Python for calling twitter API along with performing sentimental analysis   
+
 3) AWS -Services Used 
-i)EC2 instance for hosting sites
-ii) s3 bucket-for storing twitter data 
+
+  i)EC2 instance for hosting sites
+  
+  ii) s3 bucket-for storing twitter data 
 
 ## Fremium Services :
 We will be offering our product to customers for a freemium service 
