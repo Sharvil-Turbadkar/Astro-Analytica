@@ -13,22 +13,33 @@ ii) s3 bucket-for storing twitter data
 Future Goals :
 We will be offering our product to customers for a freemium service 
 Freemium model in which some of the advanced services will be paid
-​No consultation necessary
-​Data will be refreshed weekly
-​Features Includes:
-​Analytics dashboard
-​Sentiment analysis by twitter handle 
-Positive and negative word clouds
-​The ratio of positive to negative sentiments  
-Great no-cost data entry
+
+1)No consultation necessary
+
+2)Data will be refreshed weekly
+
+3)Features Includes:
+
+4)Analytics dashboard
+
+5)Sentiment analysis by twitter handle 
+
+6)Positive and negative word clouds
+
+7)The ratio of positive to negative sentiments  
 Future Scope
 After one month users will avail all services being provided with real-time data and analytics being tailor-made for this purpose   
 Consultation is required  for 
-​Real-time dashboards
-​Services include:
-​Customized interface 
-​API available for data integration​
-​Access to historical data
-​SSO integration
+1)Real-time dashboards
+
+2)Services include:
+
+3)Customized interface 
+
+4)API available for data integration​
+
+5)Access to historical data
+
+6)SSO integration
 
 
