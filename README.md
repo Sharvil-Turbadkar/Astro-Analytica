@@ -1,5 +1,5 @@
 # Astro-Analytica
-## Forecasting outcomes and election polls using twitter sentimental analysis
+## Forecasting outcomes of election polls using twitter sentimental analysis
 
 We have collected our data using twitter premium functionalities 
 
