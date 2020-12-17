@@ -54,5 +54,3 @@ Consultation is required  for
 5)Access to historical data
 
 6)SSO integration
-
-
